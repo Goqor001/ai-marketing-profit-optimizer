@@ -1,0 +1,33 @@
+# Marketing Profit Optimization System
+# This project uses machine learning to find the most profitable customer targeting strategy.
+
+Project: Marketing Profit Optimization System
+
+Goal:
+Build an ML system that selects the best customers to contact in order to maximize expected profit.
+
+What the system does:
+- cleans data
+- creates target
+- engineers features
+- trains Logistic Regression and Decision Tree
+- ranks customers by predicted probability
+- tests different budgets and contact costs
+- returns the most profitable strategy
+
+Final output:
+- best model
+- best budget
+- best contact cost
+- expected profit
+
+Example result:
+- Model: tree
+- Budget: 18
+- Cost per client: 10
+- Expected profit: 585
+
+Key insights:
+1. The best model is not always the one with the highest accuracy, but the one with the highest profit.
+2. Decision Tree performed better than Logistic Regression for this business case.
+3. Contact budget and contact cost strongly affect the final business strategy.
