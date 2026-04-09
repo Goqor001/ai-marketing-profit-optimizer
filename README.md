@@ -35,7 +35,7 @@ Instead of focusing only on accuracy, the system:
 
 ## 📁 Files
 
-- `ai-marketing-profit-optimizer.py` — main pipeline
+- `main.py` — main pipeline
 - `marketing_ml.csv` — dataset
 - `project_summary.txt` — explanation
 
