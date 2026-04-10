@@ -42,4 +42,4 @@ Instead of focusing only on accuracy, the system:
 ## 🚀 How to run
 
 ```bash
-python ai-marketing-profit-optimizer.py
+python main.py
